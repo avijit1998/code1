@@ -1,4 +1,4 @@
-# Infix, Postfix and Prefix
+# Infix, Postfix 
 Infix, Postfix and Prefix notations are three different but equivalent ways of writing expressions. It is easiest to demonstrate the differences by looking at examples of operators that take two operands.
 
 ## Infix notation: X + Y
